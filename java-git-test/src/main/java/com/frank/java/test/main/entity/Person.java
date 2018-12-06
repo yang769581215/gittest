@@ -7,6 +7,7 @@ package com.frank.java.test.main.entity;
 public class Person {
   private String pName;
   private Integer age;
+  private String address;
 
   public Person(String pName, Integer age) {
     this.pName = pName;

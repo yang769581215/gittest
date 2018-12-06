@@ -11,6 +11,7 @@ public class Person {
   public Person(String pName, Integer age) {
     this.pName = pName;
     this.age = age;
+    System.out.println("init");
   }
 
 
@@ -29,4 +30,6 @@ public class Person {
   public void setAge(Integer age) {
     this.age = age;
   }
+
+
 }

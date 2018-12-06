@@ -14,4 +14,11 @@ public class MainTest {
   public void setTestName(String testName) {
     this.testName = testName;
   }
+
+  @Override
+  public String toString() {
+    return "MainTest{" +
+        "testName='" + testName + '\'' +
+        '}';
+  }
 }

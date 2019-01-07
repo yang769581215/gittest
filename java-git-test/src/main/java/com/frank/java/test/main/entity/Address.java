@@ -7,11 +7,21 @@ package com.frank.java.test.main.entity;
 public class Address {
   private String addName;
 
+  private String number;
+
   public String getAddName() {
     return addName;
   }
 
   public void setAddName(String addName) {
     this.addName = addName;
+  }
+
+  public String getNumber() {
+    return number;
+  }
+
+  public void setNumber(String number) {
+    this.number = number;
   }
 }

@@ -6,4 +6,7 @@ package com.frank.java.test.main;
  */
 public class Engine {
 
+  private enum EngineType {
+    A, B, AB
+  }
 }

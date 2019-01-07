@@ -10,6 +10,7 @@ public class GitTest {
     System.out.println("this is my git test project");
     System.out.println(" change my print ");
     System.out.println("fix1");
+    System.out.println("fix2");
   }
 
 }

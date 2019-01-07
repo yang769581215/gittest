@@ -25,7 +25,3 @@ public class Address {
     this.number = number;
   }
 }
-
-enum AddressType{
-  A,B,C
-}

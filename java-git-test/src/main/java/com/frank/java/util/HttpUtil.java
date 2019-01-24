@@ -6,4 +6,8 @@ package com.frank.java.util;
  */
 public class HttpUtil {
 
+
+  public static String  post() {
+    return "";
+  }
 }

@@ -6,4 +6,5 @@ package com.frank.java.controller;
  */
 public abstract class BaseController {
  abstract String getUserName();
+ abstract String getUserInfo();
 }

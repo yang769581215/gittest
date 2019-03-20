@@ -7,6 +7,15 @@ package com.frank.java.bean;
 public class RequestParam {
   private String requestKey;
   private String sessionId;
+  private String searchParam;
+
+  public String getSearchParam() {
+    return searchParam;
+  }
+
+  public void setSearchParam(String searchParam) {
+    this.searchParam = searchParam;
+  }
 
   public String getRequestKey() {
     return requestKey;

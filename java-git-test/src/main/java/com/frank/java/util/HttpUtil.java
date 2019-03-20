@@ -8,6 +8,6 @@ public class HttpUtil {
 
 
   public static String  post() {
-    return "";
+    return "success";
   }
 }

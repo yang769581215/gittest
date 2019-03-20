@@ -14,4 +14,8 @@ public class HttpUtil {
   public static String get() {
     return "fail";
   }
+
+  public static String put() {
+    return "";
+  };
 }

@@ -12,6 +12,6 @@ public class HttpUtil {
   }
 
   public static String get() {
-    return "";
+    return "fail";
   }
 }

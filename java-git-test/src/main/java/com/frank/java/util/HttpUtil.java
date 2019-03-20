@@ -10,4 +10,8 @@ public class HttpUtil {
   public static String  post() {
     return "success";
   }
+
+  public static String get() {
+    return "";
+  }
 }

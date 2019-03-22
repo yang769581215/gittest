@@ -17,5 +17,5 @@ public class HttpUtil {
 
   public static String put() {
     return "";
-  };
+  }
 }

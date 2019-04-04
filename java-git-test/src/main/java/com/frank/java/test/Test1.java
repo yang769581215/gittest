@@ -7,12 +7,13 @@ package com.frank.java.test;
 public class Test1 {
 
   public static void main(String[] args) {
-    System.out.println("new test2");
+    System.out.println("new test1");
     System.out.println("123");
     System.out.println("...");
     System.out.println("add util...");
     System.out.println("add util2...");
-    System.out.println("321");
+    System.out.println("123");
+    System.out.println("111");
 
 
   }
